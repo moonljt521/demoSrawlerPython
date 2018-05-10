@@ -40,12 +40,9 @@ class GankScrapy:
         self.save(response.json())
 
 
-
-
     def save(self, data):
         with open("gank.txt", "a", encoding="utf-8") as f:
                 f.write(json.dumps(data))
-
 
 
 if __name__ == '__main__':
