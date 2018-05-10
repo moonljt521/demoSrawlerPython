@@ -3,7 +3,7 @@ import json
 import requests
 
 
-#  测试爬虫，抓取gank数据
+#  测试爬虫，抓取gank数据   ,豆瓣网
 
 
 class GankScrapy:
