@@ -6,13 +6,11 @@ __pycache__/
 *$py.class
 
 .idea/
-gank.txt
-/.idea/
 .idea/workspace.xml
+gank.txt
 
 
 # C extensions
 *.so
 
 
-.gitignore
